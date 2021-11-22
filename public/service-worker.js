@@ -3,13 +3,13 @@ const DATA_CACHE_NAME = "data-cache-v1";
 
 const FILES_TO_CACHE = [
   "/",
-  "db.js",
+  "/db.js",
   "/index.html",
   "/index.js",
   "/manifest.json",
   "/style.css",
-  "icons/icon-192x192.png",
-  "icons/icon-512x512.png",
+  "/icons/icon-192x192.png",
+  "/icons/icon-512x512.png",
 ];
 
 
